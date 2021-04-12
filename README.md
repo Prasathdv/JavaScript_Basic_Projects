@@ -17,3 +17,9 @@
 **Today's Progress**: Completed Color Flipper project using HTML, CSS and Vanilla JS.
 
 **Thoughts:** Learned DOM Manipulation, Random and Floor Math functions.
+
+### Day2: April 12. Monday
+
+**Today's Progress**: Completed Counter project using HTML, CSS and Vanilla JS.
+
+**Thoughts:** Learned DOM Manipulation, Array functions such as forEach, contains, event currentTarget, classList.

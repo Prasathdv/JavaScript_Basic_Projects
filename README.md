@@ -23,3 +23,9 @@
 **Today's Progress**: Completed Counter project using HTML, CSS and Vanilla JS.
 
 **Thoughts:** Learned DOM Manipulation, Array functions such as forEach, contains, event currentTarget, classList.
+
+### Day3: April 14. Wednesday
+
+**Today's Progress**: Completed Reviews project using HTML, CSS and Vanilla JS.
+
+**Thoughts:** Learned DOM Event (DOMContentLoaded), manipulating arrays.
